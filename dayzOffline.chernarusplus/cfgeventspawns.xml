@@ -1407,7 +1407,9 @@
 		<pos x="4927.973" z="7844.380" a="0" y="333.543" group="Traffic_VMC"/>
 		<pos x="3518.464" z="9122.509" a="0" y="310.821" group="Traffic_Vybor"/>
 	</event>
-
+	<event name="VehicleAdmin">
+        <pos x="6991.74" y="385.106" z="11379" a="360"/>
+    </event>
     <event name="VehicleTransitBus" />
     <event name="InfectedVillage" />
     <event name="InfectedSolitude" />

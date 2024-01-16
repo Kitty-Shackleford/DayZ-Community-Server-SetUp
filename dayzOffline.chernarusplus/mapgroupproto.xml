@@ -3812,14 +3812,15 @@
 						<tag name="floor" />
 						<tag name="shelves" />
 						<point pos="0.482910 -0.264374 -1.178955" range="0.166260" height="0.415650" />
-						<point pos="0.857422 -0.447495 0.353271" range="0.488770" height="1.083093" />
-						<point pos="-3.561523 -0.565399 -0.502197" range="0.358398" height="0.895996" />
-						<point pos="-1.978516 -0.685150 -0.886963" range="0.417480" height="1.043700" />
-						<point pos="4.775879 -0.440414 -0.883789" range="0.438721" height="1.096802" />
-						<point pos="-1.876465 -0.477051 0.402588" range="0.438721" height="1.096802" />
-						<point pos="1.246582 -0.550301 -0.758789" range="0.443750" height="0.990898" />
-						<point pos="3.439942 -0.561501 -0.604736" range="0.443750" height="1.109375" />
 						<point pos="-1.115234 -0.273331 -1.159912" range="0.202637" height="0.506592" />
+						<point pos="-3.561523 -0.565399 -0.502197" range="0.358398" height="0.895996" />
+						<point pos="1.988098 -0.120527 0.298950" range="0.203125" height="0.507813" />
+						<point pos="-1.876465 -0.477051 0.402588" range="0.438721" height="1.096802" />
+						<point pos="0.857422 -0.447495 0.353271" range="0.488770" height="1.083093" />
+						<point pos="4.643127 -0.606123 -0.885376" range="0.434814" height="0.178802" />
+						<point pos="1.246582 -0.550301 -0.758789" range="0.443750" height="0.990898" />
+						<point pos="4.148071 -0.501453 0.112670" range="0.306250" height="0.765625" />
+						<point pos="2.754394 -0.273159 -1.160401" range="0.193115" height="0.482788" />
 				</container>
 		</group>
 		<group name="Land_Wreck_Volha_Grey" lootmax="4">
@@ -16130,26 +16131,27 @@
 						<category name="weapons" />
 						<tag name="floor" />
 						<tag name="shelves" />
-						<point pos="0.555043 -0.987457 0.805618" range="0.100000" height="0.250000" />
-						<point pos="-1.402759 -0.781616 0.520947" range="0.134375" height="0.335938" />
-						<point pos="-0.665093 -1.457581 0.900090" range="0.146048" height="0.365121" />
-						<point pos="0.761759 -0.108078 -0.549868" range="0.168750" height="0.421875" />
-						<point pos="0.490171 0.023346 0.634153" range="0.168750" height="0.421875" />
-						<point pos="-0.174255 -1.116562 0.734736" range="0.169871" height="0.424678" />
-						<point pos="-1.720960 -0.944321 -0.261277" range="0.203125" height="0.507813" />
-						<point pos="1.648538 -0.890152 0.067431" range="0.340625" height="0.851563" />
-						<point pos="-2.620113 -1.941956 -0.335838" range="0.639404" height="1.598510" flags="32" />
-						<point pos="1.292144 -1.723114 1.789031" range="0.867656" height="2.138657" flags="32" />
-						<point pos="2.706925 -1.723343 0.249475" range="0.945068" height="2.148758" flags="32" />
-						<point pos="0.280299 -1.869156 -1.589445" range="1.199951" height="2.019852" flags="32" />
-						<point pos="0.665748 -1.186035 -0.555575" range="0.097782" height="0.250000" />
-						<point pos="-0.304003 -1.279922 -0.610155" range="0.083643" height="0.250000" />
+						<point pos="-0.303983 -1.279922 -0.610146" range="0.083643" height="0.250000" />
+						<point pos="0.665800 -1.186035 -0.555596" range="0.097782" height="0.250000" />
+						<point pos="0.555047 -0.987457 0.805647" range="0.100000" height="0.250000" />
+						<point pos="2.706940 -1.723343 0.249501" range="0.945068" height="2.148758" flags="32" />
+						<point pos="1.292126 -1.723114 1.789030" range="0.867656" height="2.138657" flags="32" />
+						<point pos="0.761712 -0.108078 -0.549853" range="0.168750" height="0.421875" />
+						<point pos="0.490189 0.023346 0.634130" range="0.168750" height="0.421875" />
+						<point pos="-0.174269 -1.116562 0.734719" range="0.169871" height="0.424678" />
+						<point pos="0.280301 -1.869156 -1.589443" range="1.199951" height="2.019852" flags="32" />
+						<point pos="1.648551 -0.890152 0.067422" range="0.340625" height="0.851563" />
+						<point pos="-1.955514 -0.903815 -0.629182" range="0.134375" height="0.335938" />
+						<point pos="-1.643712 -1.834764 1.813673" range="0.592407" height="1.481018" flags="32" />
+						<point pos="-1.501057 -0.717227 0.920875" range="0.203125" height="0.507742" />
+						<point pos="-2.040521 -0.863313 0.940076" range="0.134375" height="0.335938" />
+						<point pos="-1.285030 -0.790954 -0.774216" range="0.203125" height="0.507784" />
 				</container>
-				<dispatch>
-						<proxy type="Offroad_02_Door_2_2_Rust" pos="0.55 -0.85 1.15" rpy="2.0 170.0 0.0" />
-						<proxy type="Offroad_02_Door_2_1_Rust" pos="-0.35 -0.85 1.15" rpy="2.0 170.0 0.0" />
-						<proxy type="Offroad_02_Wheel" pos="1.5 -1.4 1.1" rpy="0.0 0.0 0.0" />
-						<proxy type="Offroad_02_Trunk_Rust" pos="1.75 -0.3 0.0" rpy="37.0 0.0 100.0" />
+				<dispatch dechance="0.000000">
+						<proxy type="Offroad_02_Door_2_2_Rust" pos="0.549977 -0.850000 1.149997" rpy="2.000000 168.324295 0.000000" dechance="0.000000" />
+						<proxy type="Offroad_02_Door_2_1_Rust" pos="-0.349944 -0.850000 1.150007" rpy="2.000000 168.324295 0.000000" dechance="0.000000" />
+						<proxy type="Offroad_02_Wheel" pos="1.499971 -1.400000 1.099979" rpy="0.000000 -1.675709 0.000000" dechance="0.000000" />
+						<proxy type="Offroad_02_Trunk_Rust" pos="1.750015 -0.300000 -0.000027" rpy="38.675709 0.000000 100.000000" dechance="0.000000" />
 				</dispatch>
 		</group>
 		<group name="Land_Wreck_offroad02_aban2" lootmax="2">

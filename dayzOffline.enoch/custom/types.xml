@@ -32,8 +32,8 @@
         <lifetime>28800</lifetime>
         <restock>3600</restock>
         <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -67,8 +67,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -127,8 +127,8 @@
         <lifetime>7200</lifetime>
         <restock>3600</restock>
         <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -139,8 +139,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>10</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -395,8 +395,8 @@
         <lifetime>28800</lifetime>
         <restock>3600</restock>
         <min>2</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -791,7 +791,7 @@
         <restock>0</restock>
         <min>45</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -805,7 +805,7 @@
         <restock>0</restock>
         <min>20</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -818,7 +818,7 @@
         <restock>0</restock>
         <min>28</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -832,7 +832,7 @@
         <restock>0</restock>
         <min>30</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -845,7 +845,7 @@
         <restock>0</restock>
         <min>40</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -860,7 +860,7 @@
         <restock>0</restock>
         <min>12</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -874,7 +874,7 @@
         <restock>0</restock>
         <min>40</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -888,7 +888,7 @@
         <restock>0</restock>
         <min>65</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -977,7 +977,7 @@
         <restock>300</restock>
         <min>30</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -989,7 +989,7 @@
         <restock>180</restock>
         <min>45</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -1002,7 +1002,7 @@
         <restock>180</restock>
         <min>15</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -1015,7 +1015,7 @@
         <restock>0</restock>
         <min>60</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -1030,7 +1030,7 @@
         <restock>0</restock>
         <min>5</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -1045,7 +1045,7 @@
         <restock>0</restock>
         <min>45</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -1060,7 +1060,7 @@
         <restock>0</restock>
         <min>10</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -1075,7 +1075,7 @@
         <restock>0</restock>
         <min>32</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -1093,7 +1093,7 @@
         <restock>0</restock>
         <min>10</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -1107,7 +1107,7 @@
         <restock>0</restock>
         <min>45</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -1120,7 +1120,7 @@
         <restock>0</restock>
         <min>7</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -1133,7 +1133,7 @@
         <restock>0</restock>
         <min>4</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -1142,13 +1142,27 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
+    <type name="Ammo_CupidsBolt">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Hunting"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="Lunapark"/>
+    </type>
     <type name="Ammo_Flare">
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -1164,7 +1178,7 @@
         <restock>0</restock>
         <min>2</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -1180,7 +1194,7 @@
         <restock>0</restock>
         <min>2</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -1196,7 +1210,7 @@
         <restock>0</restock>
         <min>2</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -2150,8 +2164,8 @@
         <lifetime>28800</lifetime>
         <restock>3600</restock>
         <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -2163,8 +2177,8 @@
         <lifetime>28800</lifetime>
         <restock>3600</restock>
         <min>2</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -2201,8 +2215,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>0</quantmin>
+        <quantmax>75</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -2454,10 +2468,34 @@
         <usage name="Village"/>
         <value name="Tier1"/>
     </type>
+    <type name="BallisticHelmet_BDU">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+    </type>
     <type name="BallisticHelmet_Black">
         <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+    <type name="BallisticHelmet_Desert">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2482,6 +2520,18 @@
         <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+    <type name="BallisticHelmet_Woodland">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3747,8 +3797,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>16</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -3762,7 +3812,7 @@
         <restock>0</restock>
         <min>3</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -3774,8 +3824,8 @@
         <lifetime>7200</lifetime>
         <restock>180</restock>
         <min>10</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -3786,8 +3836,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>20</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -3907,7 +3957,7 @@
         <restock>0</restock>
         <min>30</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
@@ -3920,7 +3970,7 @@
         <restock>0</restock>
         <min>10</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
@@ -4282,7 +4332,7 @@
         <restock>0</restock>
         <min>10</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
@@ -5106,8 +5156,8 @@
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>10</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -5476,8 +5526,8 @@
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
-        <quantmin>0</quantmin>
-        <quantmax>0</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -5486,10 +5536,10 @@
     <type name="Crossbow_Black">
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>30</restock>
         <min>3</min>
-        <quantmin>0</quantmin>
-        <quantmin>0</quantmin>
+        <quantmin>100</quantmin>
+        <quantmax>0</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -5500,8 +5550,8 @@
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>3</min>
-        <quantmin>0</quantmin>
-        <quantmin>0</quantmin>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -5512,8 +5562,8 @@
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>0</quantmin>
-        <quantmin>0</quantmin>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -5726,8 +5776,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -5738,8 +5788,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -5941,7 +5991,7 @@
         <restock>0</restock>
         <min>35</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
@@ -5954,7 +6004,7 @@
         <restock>0</restock>
         <min>20</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
@@ -6245,10 +6295,10 @@
         <usage name="Farm"/>
     </type>
     <type name="ElectronicRepairKit">
-        <nominal>5</nominal>
+        <nominal>35</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>28</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6262,8 +6312,8 @@
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -6410,8 +6460,8 @@
         <lifetime>28800</lifetime>
         <restock>3600</restock>
         <min>3</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="weapons"/>
@@ -6422,8 +6472,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>2</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="weapons"/>
@@ -6447,8 +6497,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -7822,8 +7872,8 @@
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>10</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -9714,7 +9764,7 @@
         <restock>0</restock>
         <min>15</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
@@ -9727,8 +9777,8 @@
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>15</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -9759,8 +9809,8 @@
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>15</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -11169,8 +11219,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -11243,8 +11293,8 @@
         <lifetime>7200</lifetime>
         <restock>3600</restock>
         <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -11483,8 +11533,8 @@
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -11510,8 +11560,8 @@
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>20</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -11525,8 +11575,8 @@
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>7</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -11656,7 +11706,7 @@
         <restock>0</restock>
         <min>5</min>
         <quantmin>5</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -11670,7 +11720,7 @@
         <restock>0</restock>
         <min>4</min>
         <quantmin>5</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -11683,7 +11733,7 @@
         <restock>1800</restock>
         <min>1</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -11695,7 +11745,7 @@
         <restock>0</restock>
         <min>2</min>
         <quantmin>5</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -11708,7 +11758,7 @@
         <restock>0</restock>
         <min>2</min>
         <quantmin>5</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="weapons"/>
@@ -11720,7 +11770,7 @@
         <restock>0</restock>
         <min>2</min>
         <quantmin>5</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -11733,7 +11783,7 @@
         <restock>1800</restock>
         <min>2</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -11759,7 +11809,7 @@
         <restock>0</restock>
         <min>5</min>
         <quantmin>5</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -11772,7 +11822,7 @@
         <restock>0</restock>
         <min>2</min>
         <quantmin>5</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -11785,7 +11835,7 @@
         <restock>1800</restock>
         <min>1</min>
         <quantmin>5</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -11827,7 +11877,7 @@
         <restock>0</restock>
         <min>10</min>
         <quantmin>5</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -11866,7 +11916,7 @@
         <restock>1800</restock>
         <min>3</min>
         <quantmin>5</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
@@ -11878,7 +11928,7 @@
         <restock>1800</restock>
         <min>2</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -11929,7 +11979,7 @@
         <restock>0</restock>
         <min>13</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -11943,7 +11993,7 @@
         <restock>0</restock>
         <min>7</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -11969,7 +12019,7 @@
         <restock>0</restock>
         <min>7</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -11981,7 +12031,7 @@
         <restock>0</restock>
         <min>5</min>
         <quantmin>5</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -12008,7 +12058,7 @@
         <restock>3600</restock>
         <min>9</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -12033,7 +12083,7 @@
         <restock>0</restock>
         <min>10</min>
         <quantmin>5</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -12047,7 +12097,7 @@
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>12</min>
-        <quantmin>100</quantmin>
+        <quantmin>0</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
@@ -12062,7 +12112,7 @@
         <restock>0</restock>
         <min>2</min>
         <quantmin>5</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -12075,7 +12125,7 @@
         <restock>0</restock>
         <min>2</min>
         <quantmin>5</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="weapons"/>
@@ -12128,7 +12178,7 @@
         <restock>0</restock>
         <min>2</min>
         <quantmin>5</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="weapons"/>
@@ -12152,7 +12202,7 @@
         <restock>0</restock>
         <min>8</min>
         <quantmin>5</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -12172,9 +12222,22 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_VSS_10Rnd">
-        <nominal>4</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
+        <min>5</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="Mag_Vikhr_30Rnd">
+        <nominal>4</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
         <min>2</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
@@ -12190,7 +12253,7 @@
         <restock>0</restock>
         <min>5</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -12201,8 +12264,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>30</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -12328,7 +12391,7 @@
         <restock>0</restock>
         <min>12</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
@@ -12544,7 +12607,7 @@
         <restock>0</restock>
         <min>50</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
@@ -12865,7 +12928,7 @@
         <restock>0</restock>
         <min>12</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -13124,8 +13187,8 @@
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>10</min>
-        <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -13689,8 +13752,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>23</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -13704,8 +13767,8 @@
         <lifetime>28800</lifetime>
         <restock>3600</restock>
         <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -13803,7 +13866,7 @@
         <restock>0</restock>
         <min>18</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
@@ -14742,7 +14805,7 @@
         <restock>0</restock>
         <min>50</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
@@ -14874,7 +14937,7 @@
         <restock>1800</restock>
         <min>35</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
@@ -15301,7 +15364,7 @@
         <restock>0</restock>
         <min>15</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -15380,8 +15443,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>10</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -15394,8 +15457,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>9</min>
-        <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmin>25</quantmin>
+        <quantmax>75</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -15436,8 +15499,8 @@
         <lifetime>7200</lifetime>
         <restock>3600</restock>
         <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -15448,8 +15511,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>2</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -15623,7 +15686,7 @@
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
-        <quantmin>100</quantmin>
+        <quantmin>0</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
@@ -15700,8 +15763,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -15712,8 +15775,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
@@ -18005,7 +18068,7 @@
         <restock>0</restock>
         <min>15</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
@@ -18699,8 +18762,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>7</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -18849,8 +18912,21 @@
         <lifetime>28800</lifetime>
         <restock>3600</restock>
         <min>2</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="Vikhr">
+        <nominal>7</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -18863,7 +18939,7 @@
         <restock>0</restock>
         <min>15</min>
         <quantmin>5</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
@@ -18900,7 +18976,7 @@
         <restock>0</restock>
         <min>30</min>
         <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
@@ -19051,8 +19127,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>5</min>
-        <quantmin>100</quantmin>
-        <quantmin>100</quantmin>
+        <quantmin>25</quantmin>
+        <quantmax>75</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -19141,7 +19217,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <usage name="SeasonalEvent"/>
     </type>
-    <type name="WitchHoodCoif_Black">
+    <type name="WitchHood_Chainmail_Black">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -19152,7 +19228,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
     </type>
-    <type name="WitchHoodCoif_Brown">
+    <type name="WitchHood_Chainmail_Brown">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -19163,7 +19239,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
     </type>
-    <type name="WitchHoodCoif_Red">
+    <type name="WitchHood_Chainmail_Red">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -21639,8 +21715,8 @@
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
